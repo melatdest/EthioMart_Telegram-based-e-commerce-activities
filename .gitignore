@@ -1,0 +1,12 @@
+
+.venv/
+.env
+__pycache__/
+*.pyc
+.DS_Store
+Data/
+data/
+data.zip
+README.pdf
+scraping_session.session
+test_output.conll
